@@ -39,7 +39,7 @@ For the power user who needs the best performance and unlimited data. Experience
 Hot selling! Ideal for streaming and downloading large files. Enjoy seamless streaming and quick downloads with our Gold Package.
 
 ### 🥈 **Platinum Package**
-Perfect for casual browsing and social media. Stay connected and secure with our reliable Platinum Package.
+Perfect for casual browsing and social media. Stay connected and secure with our Platinum Package.
 
 ---
 
