@@ -1,4 +1,4 @@
-# **SailfishLink** - **Your Ultimate Free VPN Solution**
+# **SailfishLink** - **Your Faster Better VPN Solution**
 
 ![10 23 1](https://github.com/user-attachments/assets/a43d68cd-cd25-4f91-be41-9e131934c287)
 
@@ -87,4 +87,4 @@ surfing engine, the network acceleration expert by your side! With just one clic
 ---
 
 ## **-SailfishLink-** 
-Your Ultimate Free VPN Solution.
+Your Faster Better VPN Solution.
