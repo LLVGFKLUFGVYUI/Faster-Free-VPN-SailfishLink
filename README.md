@@ -1,7 +1,6 @@
 # **SailfishLink** - **Your Faster Better VPN Solution**
 
-![10 23 1](https://github.com/user-attachments/assets/a43d68cd-cd25-4f91-be41-9e131934c287)
-
+![3](https://github.com/user-attachments/assets/b7e20130-3ef2-48b6-8fca-2d869459b71b)
 
 ## **Why Choose SailfishLink?**
 
@@ -28,18 +27,103 @@ Your privacy is our top priority. **SailfishLink** uses the latest encryption pr
 
 ---
 
-## **Flexible combo options**
+## **Flexible Combo Options**
 
 ![10 23 2](https://github.com/user-attachments/assets/522c3701-7c26-40cc-8df6-633303452047)
 
-### 💎 **Diamond Package**
-For the power user who needs the best performance and unlimited data. Experience the pinnacle of VPN technology with our Diamond Package.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    🚀 包月基础套餐
+    提供100G流量  
+    周期为30天  
+    到期/流量用尽需重新付费订阅  
+    -40%不限购  
+    **$3.00**  
+    <del>原价：$5.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
 
-### 🥇 **Gold Package**
-Hot selling! Ideal for streaming and downloading large files. Enjoy seamless streaming and quick downloads with our Gold Package.
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    🚀 包月初级套餐
+    提供200G流量  
+    周期为30天  
+    到期/流量用尽需重新付费订阅  
+    -40%不限购  
+    **$6.00**  
+    <del>原价：$10.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
 
-### 🥈 **Platinum Package**
-Perfect for casual browsing and social media. Stay connected and secure with our Platinum Package.
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    🚀 包月中级套餐
+    提供500G流量  
+    周期为30天  
+    到期/流量用尽需重新付费订阅  
+    -50%不限购  
+    **$12.50**  
+    <del>原价：$25.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    🚀 包月高级套餐
+    提供1T流量  
+    周期为30天  
+    到期/流量用尽需重新付费订阅  
+    -50%不限购  
+    **$25.00**  
+    <del>原价：$50.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    📈 新手流量包
+    提供20G高速流量  
+    周期为90天  
+    到期/流量用尽需重新付费订阅  
+    -67%不限购  
+    **$1.00**  
+    <del>原价：$3.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    📈 初级流量包
+    提供100G高速流量  
+    周期为90天  
+    到期/流量用尽需重新付费订阅  
+    -40%不限购  
+    **$6.00**  
+    <del>原价：$10.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    📈 中级流量包
+    提供200G高速流量  
+    周期为90天  
+    到期/流量用尽需重新付费订阅  
+    -40%不限购  
+    **$12.00**  
+    <del>原价：$20.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+
+  <div style="flex: 1; margin: 10px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+    📈 高级流量包
+    提供500G高速流量  
+    周期为90天  
+    到期/流量用尽需重新付费订阅  
+    -50%不限购  
+    **$25.00**  
+    <del>原价：$50.00</del>  
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px 0; border: none; border-radius: 5px; cursor: pointer;">立即购买</button>
+  </div>
+</div>
 
 ---
 
@@ -54,37 +138,24 @@ Our sleek and modern interface ensures that you can navigate and connect with ea
 ## **Available Now on iPhone App Store**
 
 **SailfishLink** is now available exclusively on the iPhone App Store. Please note that you will need an overseas iPhone ID to download and install the app.
+![1](https://github.com/user-attachments/assets/62659284-ff27-44e2-91bd-284caf1eb89f)
 
 ![10 22 1](https://github.com/user-attachments/assets/0ae66a7a-b2f8-448a-9442-6426ccd6f98b)
 
-[**Download SailfishLink**](https://apps.apple.com/th/app/sailfishlink/id6480252850)
+[**Download SailfishLink**](https://github.com/user-attachments/assets/e8fa8c7e-4d37-426e-8b67-4ed9ed8b7ef8)
+
+[**SailfishLink Official website**](https://www.sailfishlink.com/)
+---
+
+## **Get Started with SailfishLink Today**
+
+Experience the freedom of fast, secure, and reliable internet browsing with **SailfishLink**. Download the app now and enjoy a world without boundaries.
+
+### **For More Information:**
+
+- [SailfishLink Official Website](https://github.com/user-attachments/assets/2cce98b7-92d1-40a1-b453-4b6164f2e205)
+- [Customer Support](mailto:support@sailfishlink.com)
 
 ---
 
-## **How to Get an Overseas iPhone ID**
-
-1. Open the Settings app on your iPhone.
-2. Tap your name, then tap "Media & Purchases."
-3. Tap "Sign Out," then create a new Apple ID with a different region (e.g., United States).
-4. Sign in with your new Apple ID and visit the App Store to download **SailfishLink**.
-
----
-
-## **Important Notes**
-
-### 🔐 **Data Security**
-Rest assured that **SailfishLink** employs advanced security measures to protect your data and privacy.
-
-### 📢 **No Contact Channels Yet**
-Currently, we do not have established contact channels or social media platforms. Stay tuned for updates.
-
----
-
-## **Experience the Freedom of the Internet with SailfishLink**
-
-surfing engine, the network acceleration expert by your side! With just one click, the surf engine can create an unobstructed network channel for you, so you can feel the speed and convenience of the network in no time. Not only that, but surfing engine also offers smart node selection and high-speed encrypted connections to ensure that your network connection is stable and secure. Let the surfing engine become your network accelerator, let's enjoy the online world together!
-
----
-
-## **-SailfishLink-** 
-Your Faster Better VPN Solution.
+Experience the best of the internet with **SailfishLink**. Connect now and start your journey towards a faster, better, and absolutely free VPN experience.
