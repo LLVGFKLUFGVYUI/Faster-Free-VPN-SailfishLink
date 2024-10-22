@@ -153,8 +153,9 @@ Experience the freedom of fast, secure, and reliable internet browsing with **Sa
 
 ### **For More Information:**
 
-- [SailfishLink Official Website](https://github.com/user-attachments/assets/2cce98b7-92d1-40a1-b453-4b6164f2e205)
-- [Customer Support](mailto:support@sailfishlink.com)
+- [SailfishLink Official Website](https://www.sailfishlink.com/)
+
+- [Follow the official Telegram bot](https://t.me/sailfishlinkbot)
 
 ---
 
