@@ -142,7 +142,7 @@ Our sleek and modern interface ensures that you can navigate and connect with ea
 
 ![10 22 1](https://github.com/user-attachments/assets/0ae66a7a-b2f8-448a-9442-6426ccd6f98b)
 
-[**Download SailfishLink**](https://github.com/user-attachments/assets/e8fa8c7e-4d37-426e-8b67-4ed9ed8b7ef8)
+[**Download SailfishLink**](https://apps.apple.com/th/app/sailfishlink/id6480252850)
 
 [**SailfishLink Official website**](https://www.sailfishlink.com/)
 ---
